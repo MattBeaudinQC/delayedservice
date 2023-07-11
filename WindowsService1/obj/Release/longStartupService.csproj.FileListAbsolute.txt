@@ -1,0 +1,8 @@
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Release\longStartupService.csproj.AssemblyReference.cache
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Release\longStartupService.csproj.SuggestedBindingRedirects.cache
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Release\longStartupService.csproj.CoreCompileInputs.cache
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\bin\Release\longStartupService.exe.config
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\bin\Release\longStartupService.exe
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\bin\Release\longStartupService.pdb
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Release\longStartupService.exe
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Release\longStartupService.pdb

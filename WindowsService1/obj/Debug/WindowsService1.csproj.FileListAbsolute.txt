@@ -1,0 +1,8 @@
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Debug\WindowsService1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\MBeaudin\source\repos\longStartupService\WindowsService1\obj\Debug\WindowsService1.pdb
